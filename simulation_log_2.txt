@@ -1,0 +1,490 @@
+Simulation started.
+(0,22,7); (1,19,5); (2,14,5); (3,15,3); (4,10,2); (5,32,7); (6,12,5); (7,27,7); (8,38,1); (9,37,2); (10,34,1); (11,6,4); (12,28,2); (13,27,5); (14,12,3); (15,16,3); (16,27,3); (17,7,4); (18,4,4); (19,17,4); (20,7,2); (21,38,7); (22,9,6); (23,37,3); (24,23,1); (25,27,4); (26,29,1); (27,8,6); (28,34,1); (29,17,5); (30,38,4); (31,18,1); (32,12,1); (33,36,4); (34,40,2); (35,20,1); (36,2,4); (37,29,1); (38,26,1); (39,27,6); (40,9,4); (41,16,5); (42,30,7); (43,34,2); (44,11,4); (45,5,6); (46,27,5); (47,19,2); (48,13,7); (49,12,1)
+Time 0
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 1
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 2
+Added clients: (36,2,4);
+Queue 1: (36,2,4); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 3
+Added clients: 
+Queue 1: (36,2,4); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 4
+Added clients: (18,4,4);
+Queue 1: (36,2,3); 
+Queue 2: (18,4,4); 
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 5
+Added clients: (45,5,6);
+Queue 1: (36,2,2); 
+Queue 2: (18,4,4); 
+Queue 3: (45,5,6); 
+Queue 4: closed
+Queue 5: closed
+
+Time 6
+Added clients: (11,6,4);
+Queue 1: (36,2,1); 
+Queue 2: (18,4,2); 
+Queue 3: (45,5,5); 
+Queue 4: (11,6,4); 
+Queue 5: closed
+
+Time 7
+Added clients: (17,7,4); (20,7,2);
+Queue 1: (17,7,4); 
+Queue 2: (18,4,1); (20,7,2); 
+Queue 3: (45,5,4); 
+Queue 4: (11,6,4); 
+Queue 5: closed
+
+Time 8
+Added clients: (27,8,6);
+Queue 1: (17,7,3); 
+Queue 2: (20,7,2); 
+Queue 3: (45,5,3); 
+Queue 4: (11,6,3); 
+Queue 5: (27,8,6); 
+
+Time 9
+Added clients: (22,9,6); (40,9,4);
+Queue 1: (17,7,2); 
+Queue 2: (20,7,1); (22,9,6); 
+Queue 3: (45,5,3); 
+Queue 4: (11,6,2); (40,9,4); 
+Queue 5: (27,8,5); 
+
+Time 10
+Added clients: (4,10,2);
+Queue 1: (17,7,2); 
+Queue 2: (20,7,1); (22,9,6); 
+Queue 3: (45,5,1); (4,10,2); 
+Queue 4: (11,6,1); (40,9,4); 
+Queue 5: (27,8,4); 
+
+Time 11
+Added clients: (44,11,4);
+Queue 1: (44,11,4); 
+Queue 2: (22,9,5); 
+Queue 3: (45,5,1); (4,10,2); 
+Queue 4: (40,9,4); 
+Queue 5: (27,8,3); 
+
+Time 12
+Added clients: (6,12,5); (14,12,3); (32,12,1); (49,12,1);
+Queue 1: (44,11,3); (32,12,1); 
+Queue 2: (22,9,4); 
+Queue 3: (4,10,1); (6,12,5); 
+Queue 4: (40,9,3); (49,12,1); 
+Queue 5: (27,8,2); (14,12,3); 
+
+Time 13
+Added clients: (48,13,7);
+Queue 1: (44,11,2); (32,12,1); 
+Queue 2: (22,9,3); (48,13,7); 
+Queue 3: (6,12,5); 
+Queue 4: (40,9,2); (49,12,1); 
+Queue 5: (27,8,1); (14,12,3); 
+
+Time 14
+Added clients: (2,14,5);
+Queue 1: (44,11,1); (32,12,1); (2,14,5); 
+Queue 2: (22,9,2); (48,13,7); 
+Queue 3: (6,12,4); 
+Queue 4: (40,9,1); (49,12,1); 
+Queue 5: (14,12,3); 
+
+Time 15
+Added clients: (3,15,3);
+Queue 1: (32,12,1); (2,14,5); 
+Queue 2: (22,9,1); (48,13,7); 
+Queue 3: (6,12,3); 
+Queue 4: (49,12,1); (3,15,3); 
+Queue 5: (14,12,2); 
+
+Time 16
+Added clients: (15,16,3); (41,16,5);
+Queue 1: (2,14,5); 
+Queue 2: (48,13,7); 
+Queue 3: (6,12,2); (41,16,5); 
+Queue 4: (3,15,3); 
+Queue 5: (14,12,1); (15,16,3); 
+
+Time 17
+Added clients: (19,17,4); (29,17,5);
+Queue 1: (2,14,4); 
+Queue 2: (48,13,6); 
+Queue 3: (6,12,1); (41,16,5); 
+Queue 4: (3,15,2); (19,17,4); 
+Queue 5: (15,16,3); (29,17,5); 
+
+Time 18
+Added clients: (31,18,1);
+Queue 1: (2,14,3); (31,18,1); 
+Queue 2: (48,13,5); 
+Queue 3: (41,16,5); 
+Queue 4: (3,15,1); (19,17,4); 
+Queue 5: (15,16,2); (29,17,5); 
+
+Time 19
+Added clients: (1,19,5); (47,19,2);
+Queue 1: (2,14,2); (31,18,1); (1,19,5); 
+Queue 2: (48,13,4); (47,19,2); 
+Queue 3: (41,16,4); 
+Queue 4: (19,17,4); 
+Queue 5: (15,16,1); (29,17,5); 
+
+Time 20
+Added clients: (35,20,1);
+Queue 1: (2,14,1); (31,18,1); (1,19,5); 
+Queue 2: (48,13,3); (47,19,2); 
+Queue 3: (41,16,3); (35,20,1); 
+Queue 4: (19,17,3); 
+Queue 5: (29,17,5); 
+
+Time 21
+Added clients: 
+Queue 1: (31,18,1); (1,19,5); 
+Queue 2: (48,13,2); (47,19,2); 
+Queue 3: (41,16,2); (35,20,1); 
+Queue 4: (19,17,2); 
+Queue 5: (29,17,4); 
+
+Time 22
+Added clients: (0,22,7);
+Queue 1: (1,19,5); 
+Queue 2: (48,13,1); (47,19,2); 
+Queue 3: (41,16,1); (35,20,1); 
+Queue 4: (19,17,1); (0,22,7); 
+Queue 5: (29,17,3); 
+
+Time 23
+Added clients: (24,23,1);
+Queue 1: (1,19,4); 
+Queue 2: (47,19,2); 
+Queue 3: (35,20,1); (24,23,1); 
+Queue 4: (0,22,7); 
+Queue 5: (29,17,2); 
+
+Time 24
+Added clients: 
+Queue 1: (1,19,3); 
+Queue 2: (47,19,1); 
+Queue 3: (24,23,1); 
+Queue 4: (0,22,6); 
+Queue 5: (29,17,1); 
+
+Time 25
+Added clients: 
+Queue 1: (1,19,2); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: (0,22,4); 
+Queue 5: closed
+
+Time 26
+Added clients: (38,26,1);
+Queue 1: (1,19,1); 
+Queue 2: (38,26,1); 
+Queue 3: closed
+Queue 4: (0,22,3); 
+Queue 5: closed
+
+Time 27
+Added clients: (7,27,7); (13,27,5); (16,27,3); (25,27,4); (39,27,6); (46,27,5);
+Queue 1: (7,27,7); 
+Queue 2: (38,26,1); (13,27,5); 
+Queue 3: (16,27,3); (46,27,5); 
+Queue 4: (0,22,2); (39,27,6); 
+Queue 5: (25,27,4); 
+
+Time 28
+Added clients: (12,28,2);
+Queue 1: (7,27,6); 
+Queue 2: (13,27,4); 
+Queue 3: (16,27,2); (46,27,5); 
+Queue 4: (0,22,1); (39,27,6); 
+Queue 5: (25,27,3); (12,28,2); 
+
+Time 29
+Added clients: (26,29,1); (37,29,1);
+Queue 1: (7,27,5); 
+Queue 2: (13,27,3); (26,29,1); (37,29,1); 
+Queue 3: (16,27,1); (46,27,5); 
+Queue 4: (39,27,6); 
+Queue 5: (25,27,2); (12,28,2); 
+
+Time 30
+Added clients: (42,30,7);
+Queue 1: (7,27,4); 
+Queue 2: (13,27,2); (26,29,1); (37,29,1); 
+Queue 3: (46,27,5); 
+Queue 4: (39,27,5); 
+Queue 5: (25,27,1); (12,28,2); (42,30,7); 
+
+Time 31
+Added clients: 
+Queue 1: (7,27,3); 
+Queue 2: (13,27,1); (26,29,1); (37,29,1); 
+Queue 3: (46,27,4); 
+Queue 4: (39,27,4); 
+Queue 5: (12,28,2); (42,30,7); 
+
+Time 32
+Added clients: (5,32,7);
+Queue 1: (7,27,3); (5,32,7); 
+Queue 2: (13,27,1); (26,29,1); (37,29,1); 
+Queue 3: (46,27,4); 
+Queue 4: (39,27,4); 
+Queue 5: (12,28,2); (42,30,7); 
+
+Time 33
+Added clients: 
+Queue 1: (7,27,1); (5,32,7); 
+Queue 2: (37,29,1); 
+Queue 3: (46,27,3); 
+Queue 4: (39,27,3); 
+Queue 5: (42,30,7); 
+
+Time 34
+Added clients: (10,34,1); (28,34,1); (43,34,2);
+Queue 1: (5,32,7); 
+Queue 2: (10,34,1); 
+Queue 3: (46,27,1); (28,34,1); 
+Queue 4: (39,27,1); (43,34,2); 
+Queue 5: (42,30,6); 
+
+Time 35
+Added clients: 
+Queue 1: (5,32,6); 
+Queue 2: closed
+Queue 3: (28,34,1); 
+Queue 4: (43,34,2); 
+Queue 5: (42,30,5); 
+
+Time 36
+Added clients: (33,36,4);
+Queue 1: (5,32,6); 
+Queue 2: (33,36,4); 
+Queue 3: (28,34,1); 
+Queue 4: (43,34,2); 
+Queue 5: (42,30,4); 
+
+Time 37
+Added clients: (9,37,2); (23,37,3);
+Queue 1: (5,32,5); 
+Queue 2: (33,36,4); 
+Queue 3: (9,37,2); 
+Queue 4: (23,37,3); 
+Queue 5: (42,30,4); 
+
+Time 38
+Added clients: (8,38,1); (21,38,7); (30,38,4);
+Queue 1: (5,32,3); 
+Queue 2: (33,36,2); (8,38,1); 
+Queue 3: (9,37,2); (21,38,7); 
+Queue 4: (23,37,3); 
+Queue 5: (42,30,2); (30,38,4); 
+
+Time 39
+Added clients: 
+Queue 1: (5,32,2); 
+Queue 2: (33,36,1); (8,38,1); 
+Queue 3: (9,37,1); (21,38,7); 
+Queue 4: (23,37,2); 
+Queue 5: (42,30,1); (30,38,4); 
+
+Time 40
+Added clients: (34,40,2);
+Queue 1: (5,32,2); 
+Queue 2: (33,36,1); (8,38,1); 
+Queue 3: (21,38,6); 
+Queue 4: (34,40,2); 
+Queue 5: (42,30,1); (30,38,4); 
+
+Time 41
+Added clients: 
+Queue 1: closed
+Queue 2: (8,38,1); 
+Queue 3: (21,38,5); 
+Queue 4: (34,40,1); 
+Queue 5: (30,38,4); 
+
+Time 42
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: (21,38,5); 
+Queue 4: (34,40,1); 
+Queue 5: (30,38,3); 
+
+Time 43
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: (21,38,3); 
+Queue 4: closed
+Queue 5: (30,38,1); 
+
+Time 44
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: (21,38,2); 
+Queue 4: closed
+Queue 5: closed
+
+Time 45
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: (21,38,1); 
+Queue 4: closed
+Queue 5: closed
+
+Time 46
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 47
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 48
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 49
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 50
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 51
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 52
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 53
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 54
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 55
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 56
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 57
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 58
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 59
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time 60
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Simulation ended.

@@ -35,11 +35,11 @@ public class SimulationFrame extends JFrame {
 
         JPanel inputPanel = new JPanel(new GridLayout(7, 2));
         inputPanel.add(new JLabel("Number of Clients (N):"));
-        numberOfClientsField = new JTextField("50");
+        numberOfClientsField = new JTextField("4");
         inputPanel.add(numberOfClientsField);
 
         inputPanel.add(new JLabel("Number of Queues (Q):"));
-        numberOfQueuesField = new JTextField("5");
+        numberOfQueuesField = new JTextField("2");
         inputPanel.add(numberOfQueuesField);
 
         inputPanel.add(new JLabel("Simulation Interval (MAX):"));
@@ -51,16 +51,17 @@ public class SimulationFrame extends JFrame {
         inputPanel.add(minArrivalTimeField);
 
         inputPanel.add(new JLabel("Max Arrival Time:"));
-        maxArrivalTimeField = new JTextField("40");
+        maxArrivalTimeField = new JTextField("30");
         inputPanel.add(maxArrivalTimeField);
 
         inputPanel.add(new JLabel("Min Service Time:"));
-        minServiceTimeField = new JTextField("1");
+        minServiceTimeField = new JTextField("2");
         inputPanel.add(minServiceTimeField);
 
         inputPanel.add(new JLabel("Max Service Time:"));
-        maxServiceTimeField = new JTextField("7");
+        maxServiceTimeField = new JTextField("4");
         inputPanel.add(maxServiceTimeField);
+
         this.simulationManager = new SimulationManager(Integer.parseInt(numberOfClientsField.getText()), Integer.parseInt(numberOfQueuesField.getText()), Integer.parseInt(numberOfClientsField.getText()), Integer.parseInt(simulationIntervalField.getText()), Integer.parseInt(minArrivalTimeField.getText()), Integer.parseInt(maxArrivalTimeField.getText()), Integer.parseInt(minServiceTimeField.getText()), Integer.parseInt(maxServiceTimeField.getText()));
         add(inputPanel, BorderLayout.NORTH);
 
@@ -222,6 +223,4 @@ public class SimulationFrame extends JFrame {
 
         return builder.toString();
     }
-
-
 }

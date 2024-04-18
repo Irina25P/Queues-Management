@@ -5,14 +5,14 @@ import gui.SimulationFrame;
 
 public class Main {
     public static void main(String[] args) {
-//        int numberOfClients = 50;
-//        int numberOfQueues = 5;
+//        int numberOfClients = 4;
+//        int numberOfQueues = 2;
 //        int maxTasksPerServer = 50;
 //        int timeLimit = 60;
 //        int minArrivalTime = 2;
-//        int maxArrivalTime = 40;
-//        int minProcessingTime = 1;
-//        int maxProcessingTime = 7;
+//        int maxArrivalTime = 30;
+//        int minProcessingTime = 2;
+//        int maxProcessingTime = 4;
 //
 //        SimulationManager manager = new SimulationManager(numberOfClients,numberOfQueues, maxTasksPerServer, timeLimit,
 //                minArrivalTime, maxArrivalTime, minProcessingTime, maxProcessingTime);

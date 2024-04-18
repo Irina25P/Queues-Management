@@ -1,0 +1,307 @@
+Simulation started.
+(0,29,4); (1,22,3); (2,3,3); (3,3,3)
+Time 0
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 1
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 2
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 3
+Added clients: (2,3,3); (3,3,3);
+Queue 1: (2,3,3); 
+Queue 2: (3,3,3); 
+
+Time 4
+Added clients: 
+Queue 1: (2,3,2); 
+Queue 2: (3,3,2); 
+
+Time 5
+Added clients: 
+Queue 1: (2,3,1); 
+Queue 2: (3,3,1); 
+
+Time 6
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 7
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 8
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 9
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 10
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 11
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 12
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 13
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 14
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 15
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 16
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 17
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 18
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 19
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 20
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 21
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 22
+Added clients: (1,22,3);
+Queue 1: (1,22,3); 
+Queue 2: closed
+
+Time 23
+Added clients: 
+Queue 1: (1,22,2); 
+Queue 2: closed
+
+Time 24
+Added clients: 
+Queue 1: (1,22,1); 
+Queue 2: closed
+
+Time 25
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 26
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 27
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 28
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 29
+Added clients: (0,29,4);
+Queue 1: (0,29,4); 
+Queue 2: closed
+
+Time 30
+Added clients: 
+Queue 1: (0,29,3); 
+Queue 2: closed
+
+Time 31
+Added clients: 
+Queue 1: (0,29,2); 
+Queue 2: closed
+
+Time 32
+Added clients: 
+Queue 1: (0,29,1); 
+Queue 2: closed
+
+Time 33
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 34
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 35
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 36
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 37
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 38
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 39
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 40
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 41
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 42
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 43
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 44
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 45
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 46
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 47
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 48
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 49
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 50
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 51
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 52
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 53
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 54
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 55
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 56
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 57
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 58
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 59
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+
+Time 60
+Added clients: 
+Queue 1: closed
+Queue 2: closed
+Simulation ended.

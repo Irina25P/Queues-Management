@@ -96,7 +96,7 @@ public class SimulationManager implements Runnable {
         }
     }
     private void logState(int currentTime) throws IOException {
-        logWriter.write("Time " + currentTime + "\nWaiting clients: ");
+        logWriter.write("Time " + currentTime + "\nAdded clients: ");
         for (Task task : generatedTasks) {
             if (!dispatchedTasks.contains(task) && task.getArrivalTime() > currentTime) {
                 logWriter.write(task.toString() + "; ");
@@ -108,7 +108,7 @@ public class SimulationManager implements Runnable {
             Server server = scheduler.getServers().get(i);
             String queueState = server.getLoggableState();
             logWriter.write("Queue " + (i + 1) + ": " + (queueState.isEmpty() ? "closed" : queueState) + "\n");
-            logWriter.write("Total Waiting Time: " + server.getWaitingTime().get() + " seconds\n");
+            //logWriter.write("Total Waiting Time: " + server.getWaitingTime().get() + " seconds\n");
         }
 
         logWriter.write("\n");
@@ -123,5 +123,10 @@ public class SimulationManager implements Runnable {
             System.err.println("Error closing log writer: " + e.getMessage());
         }
     }
-
+    public void printGeneratedTasks() {
+        System.out.println("Generated Tasks:");
+        for (Task task : generatedTasks) {
+            System.out.println("ID: " + task.getId() + ", Arrival Time: " + task.getArrivalTime() + ", Service Time: " + task.getServiceTime());
+        }
+    }
 }
