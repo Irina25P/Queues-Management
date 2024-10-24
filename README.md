@@ -1,4 +1,4 @@
-# Overview
+# Description
 - This project is an Orders Management System for a warehouse, following a layered architecture and utilizing a relational database.
 - It allows for the efficient management of clients, products, and orders through a Java-based application with a graphical user interface (GUI).
 - The project supports CRUD operations for managing clients and products, processing orders, and generating invoices using Java records for immutable objects.
